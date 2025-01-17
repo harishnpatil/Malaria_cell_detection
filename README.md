@@ -8,6 +8,10 @@ This project is a deep learning-based web application developed using Streamlit 
 - **Real-Time Prediction:** Provides infection results along with confidence scores.
 - **Deep Learning Model:** Utilizes a pre-trained Keras model (`my_model.keras`).
 
+## Dataset Used
+The dataset used for training the model can be found [here](https://www.kaggle.com/datasets/ashishjangra27/malarial-cell-image).
+
+
 ## Technologies Used
 - Python
 - TensorFlow/Keras
